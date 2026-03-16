@@ -1,6 +1,6 @@
 
 {
-  "name": "star",
+  "name": "DEV SHADOW-MD",
   "version": "3.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -43,7 +43,7 @@
     "url": "https://github.com/XdKing2/star-xd/issues"
   },
   "license": "MIT",
-  "author": "mr xdking",
+  "author": "mr shadow",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
@@ -113,7 +113,7 @@
 },
 "contributors": [
   {
-    "name": "Malvin King",
+    "name": "Shadow tech",
     "role": "Developer"
   }
 ]
