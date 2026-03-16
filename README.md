@@ -66,7 +66,7 @@ _Click the button below to fork STAR XD repository to your GitHub account_
 <p align="center">
 <a href='https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd'target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
-> .💫 sᴛᴀʀ xᴅ supports deployment on all panels & heroku platform i.e,
+> .💫 Dev Shadow Md supports deployment on all panels & heroku platform i.e,
 - 1.  [Heroku](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd)
 - 2.  [Katabump](https://dashboard.katabump.com/auth/login#203630)
 - 3.  [Bothosting](https://bot-hosting.net/?aff=1097457675723341836)
